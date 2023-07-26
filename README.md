@@ -12,9 +12,9 @@
 | S2192763      | Navaneeta A/P P Shanmugam |
 | 17186722      | Chen Bao Gang             |
 
-### MOBILE APPLICATION PROTOTYPE
+### MOBILE APPLICATION PROTOTYPE (Kindly refer to the Mobile Version tab)
 
-[ricense](https://editor.wix.com/feedback-ng/feedback/0f8c72bc-70a5-484f-9f40-d17b8b3805ba)
+[ricense](https://wix.to/csnr679?)
 
 ### MODELLING
 
